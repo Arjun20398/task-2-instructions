@@ -36,4 +36,4 @@ Follow this four step process, to excecute this task. Good luck!
 * Make sure the repository you create is **Private**.
 * Any code changes made in Public repositories will result in instant disqualification.
 
-**Got any extra time? Optimize the plotting speed of the graph for some extra points!**
+**Got any extra time? Optimize the plotting speed of the graph for some extra points! :))**
